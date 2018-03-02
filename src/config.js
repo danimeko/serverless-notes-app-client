@@ -10,7 +10,7 @@ export default {
     cognito: {
         REGION: "us-east-1",
         IDENTITY_POOL_ID: "YOUR IDENTITIY POOL ID",
-        USER_POOL_ID: "us-east-1_SdUOBMTVz",
+        USER_POOL_ID: "userpool id",
         APP_CLIENT_ID: "YOUR APP CLIENT ID"
     }
 };
